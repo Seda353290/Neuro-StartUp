@@ -1,12 +1,8 @@
 # Hello, world!
 
-# I study in Netology
+## 01.05.2023
 
 
-## Учебный репозиторий Нетологии
+## New title
 
-## new title
 
-I study in Netology
-
-# 01.05.2023
